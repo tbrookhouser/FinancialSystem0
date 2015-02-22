@@ -34,7 +34,6 @@ public class PortfolioLog {
 		String ownerCode = array[1];
 		String managerCode = array[2];
 		String beneficiaryCode = array[3];
-		String 
 		return null;
 	}
 	
