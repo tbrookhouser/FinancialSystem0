@@ -1,0 +1,102 @@
+[
+  {
+    "apr": 0.23,
+    "code": "WOK96",
+    "label": "Checking Account",
+    "type": "D"
+  },
+  {
+    "apr": 3.45,
+    "code": "JL9Nd",
+    "label": "Certificate of Deposit",
+    "type": "D"
+  },
+  {
+    "apr": 0.32,
+    "code": "M6JM",
+    "label": "Savings Account",
+    "type": "D"
+  },
+  {
+    "apr": 2.43,
+    "code": "COV94",
+    "label": "409-K",
+    "type": "D"
+  },
+  {
+    "quarterlyDividend": 8.7,
+    "baseRateOfReturn": 4.6,
+    "betaMeasure": 0.83,
+    "stockSymbol": "STRBK",
+    "sharePrice": 82.74,
+    "code": "STRB",
+    "label": "Starbucks",
+    "type": "S"
+  },
+  {
+    "quarterlyDividend": 32.5,
+    "baseRateOfReturn": 3.2,
+    "betaMeasure": 0.61,
+    "stockSymbol": "CMG",
+    "sharePrice": 341.91,
+    "code": "CHIPO",
+    "label": "Chipotle",
+    "type": "S"
+  },
+  {
+    "quarterlyDividend": 21.24,
+    "baseRateOfReturn": 5.2,
+    "betaMeasure": 1.32,
+    "stockSymbol": "IBMC",
+    "sharePrice": 74.35,
+    "code": "I9LKM",
+    "label": "IBM",
+    "type": "S"
+  },
+  {
+    "quarterlyDividend": 2.5,
+    "baseRateOfReturn": 2.4,
+    "betaMeasure": 0.29,
+    "stockSymbol": "MCRS",
+    "sharePrice": 112.42,
+    "code": "42MICLM",
+    "label": "Microsoft",
+    "type": "S"
+  },
+  {
+    "quarterlyDividend": 3510.0,
+    "baseRateOfReturn": 1.6,
+    "omegaMeasure": -0.09,
+    "totalValue": 1478000.0,
+    "code": "LP9M2",
+    "label": "Cool Gas Station",
+    "type": "P"
+  },
+  {
+    "quarterlyDividend": 1045.56,
+    "baseRateOfReturn": 2.4,
+    "omegaMeasure": 0.21,
+    "totalValue": 212003.0,
+    "code": "IOUM0N",
+    "label": "Tacos n More",
+    "type": "P"
+  },
+  {
+    "quarterlyDividend": 2563.04,
+    "baseRateOfReturn": 3.1,
+    "omegaMeasure": 0.08,
+    "totalValue": 620450.0,
+    "code": "96KLM",
+    "label": "Selleck Pizza",
+    "type": "P"
+  },
+  {
+    "quarterlyDividend": 3956.23,
+    "baseRateOfReturn": 1.0,
+    "omegaMeasure": 0.17,
+    "totalValue": 215203.0,
+    "code": "BAK353",
+    "label": "UR Mom\u0027s Baked Goods",
+    "type": "P"
+  }
+]
